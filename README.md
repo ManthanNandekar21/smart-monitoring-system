@@ -62,7 +62,7 @@ smart-monitoring-system/
 ├── app.py
 ├── producer.py
 ├── consumer.py
-├── ai_service.py
+├── api_service.py
 ├── sensor_simulator.py
 ├── requirements.txt
 ├── Dockerfile
@@ -325,7 +325,7 @@ Sending: {'temperature': 40}
 Open another terminal:
 
 ```bash
-python ai_service.py
+python api_service.py
 ```
 
 Example Output:
