@@ -521,12 +521,4 @@ This project helps understand:
 
 Manthan Nandekar
 
-Electronics and Communication Engineering (ECE)
 
-Shri Ramdeobaba College of Engineering and Management
-
----
-
-# License
-
-This project is developed for educational and learning purposes.
